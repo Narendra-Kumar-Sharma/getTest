@@ -1,0 +1,3 @@
+1) Line1 in afile
+2) Line2 in afile
+3) Line3 in afile
